@@ -1,5 +1,5 @@
 # Mi Primer CMS con JOOMLA
-Marzo de 2018
+Marzo de 2018.
 Esta página en Joomla esta creada en segundo de Grado Medio como proyecto final de la asignatura Aplicaciones Webs.
 Este CMS fue creado como una tienda online a traves de diversos plugins.
 
